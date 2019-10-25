@@ -1,0 +1,2 @@
+# uruguay
+GitHub Pages
